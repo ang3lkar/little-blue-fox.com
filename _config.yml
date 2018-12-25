@@ -3,7 +3,7 @@ description: Rumblings about music for my future self
 meta_description: ""
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /

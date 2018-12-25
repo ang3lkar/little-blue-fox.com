@@ -7,6 +7,4 @@ gem 'jekyll-watch'
 
 gem 'kramdown'
 
-gem 'pygments.rb'
-
 
