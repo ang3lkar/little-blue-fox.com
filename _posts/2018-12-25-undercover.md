@@ -14,4 +14,4 @@ But, to my surprise, I discovered that Iraina Mancini, the voice of the group, r
 
 I'll say this to myself again, this is promising.
 
-{% include youtubePlayer.html id="qjQjCC2InqA" %}
+{% include youtubeplayer.html id="qjQjCC2InqA" %}

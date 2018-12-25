@@ -12,6 +12,6 @@ google_analytics: 'UA-XXXXXXXX-X'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'http://angelkar.music'
+url:            'https://angelkar.music'
 author:         'Angelos Karagkiozidis'
 twitter:        'https://twitter.com/ang3lkar'
