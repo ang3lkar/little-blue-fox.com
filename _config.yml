@@ -1,4 +1,4 @@
-name: angelkar.music
+name: Little Blue Fox
 description: Rumblings about music for my future self
 meta_description: ""
 
@@ -7,11 +7,11 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: '/'
-domain_name: 'http://angelkar.github.io'
+domain_name: 'https://little-blue-fox.com'
 google_analytics: 'UA-36650511-2'
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://angelkar.music'
+url:            'https://little-blue-fox.com'
 author:         'Angelos Karagkiozidis'
 twitter:        'https://twitter.com/ang3lkar'
