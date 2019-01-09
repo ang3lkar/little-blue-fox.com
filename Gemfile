@@ -1,4 +1,4 @@
-ruby "2.3.7"
+ruby "2.3.6"
 source 'https://rubygems.org'
 
 gem 'jekyll'
@@ -7,5 +7,3 @@ gem 'jekyll-paginate'
 gem 'jekyll-watch'
 
 gem 'kramdown'
-
-
