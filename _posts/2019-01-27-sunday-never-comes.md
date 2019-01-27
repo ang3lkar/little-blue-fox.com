@@ -8,4 +8,6 @@ We all know that Sunday morning call. The Saturday explosion is left back and it
 
 "Sunday never comes" encapsulates this feeling. It's warm, calm and soothing track. And also a bit sad, because Sundays are a little sad. I find Ethan's voice to be comforting like chamomile. Memories bloom out of my head when I listen to this song.
 
-A similar essence (and chord progression), can be found in "Strange Magic" by Electric Light Orchestra.
+A similar essence with a 60's flavor, can also be found in "Strange Magic" by Electric Light Orchestra.
+
+{% include spotify.html id="0GAOmt9VEeFF1ONyZAyVKo" %}
