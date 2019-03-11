@@ -1,6 +1,6 @@
 # https://little-blue-fox.com
 
-The code for my music blog.
+A humble diary of my music discoveries.
 
 
 ## Write a new post
@@ -13,4 +13,21 @@ bundle exec jekyll post "Some title"
 
 ```sh
 bundle exec jekyll serve
+```
+
+## Layouts
+
+#### youtubeplayer.html
+```
+{% include youtubeplayer.html id="O0N0yDcba7s" %}
+```
+
+#### spotify.html
+```
+{% include spotify.html id="O0N0yDcba7s" %}
+```
+
+#### spotify-album.html
+```
+{% include spotify-album.html id="O0N0yDcba7s" %}
 ```
