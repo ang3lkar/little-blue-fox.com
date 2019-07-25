@@ -6,7 +6,7 @@ date: 2019-07-26 00:22 +0300
 
 Of course, my old self used to reject Miley just because she is "pop" plus that aggressice and face-shoving attitude. But I soon realised the girl is more than just a pretty face. She has possibly the best voice I've ever heard.
 
-Her covers in the backyard sessions are absolutely amazing and the production overall is superb. Rich sound that fills your ears with joy.
+Her covers in the [backyard sessions](https://en.wikipedia.org/wiki/Backyard_Sessions) are absolutely amazing and the production overall is superb. Rich sound that fills your ears with joy.
 
 #### So happy together
 
