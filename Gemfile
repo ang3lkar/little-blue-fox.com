@@ -1,7 +1,7 @@
-ruby "2.3.6" # This is needed for Netlify
+ruby "2.6.3"
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '4.0.0'
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'jekyll-paginate'
 gem 'jekyll-watch'
