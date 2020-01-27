@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Billie Eilish - Everything I wanted
+title: Billie Eilish
 date: 2020-01-26 19:13 +0200
 ---
 
@@ -12,5 +12,17 @@ This may sound simplistic, but after some listening to her work, you can realize
 
 Billie is supposedly the hottest act and the most revolutionary artits right now. An overrated opinion, but not because she's not talented or not writing good music. It's because, like all artists, of the impossible standards placed upon her. She is definitely not redefining music; nobody has done this for a long time now.
 
+## Ocean eyes
+
+{% include youtubeplayer.html id="viimfQi_pUw" %}
+Beautiful in its simplicity.
+
+## Everything I wanted
+
 {% include youtubeplayer.html id="EgBJmlPo8Xw" %}
 Sad and hazy, but tender in its melancholy.
+
+## I love you (live)
+
+{% include youtubeplayer.html id="mhmGwTDpPf0" %}
+The refrain in the live version gives me goosebumps.
