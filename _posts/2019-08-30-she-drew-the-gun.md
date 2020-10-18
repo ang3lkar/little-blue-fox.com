@@ -14,4 +14,4 @@ The vocalist Louisa Roach is exceptionally cool, she brims with confidence.
 
 
 {% include youtubeplayer.html id="5gXxNWhTCIo" %}
-Wait a minute, do I detect a hintch of 60s in this? I have played this tune about a trillion times already.
+Wait a minute, do I detect a hinch of 60s in this? I have played this tune about a trillion times already.
