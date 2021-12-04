@@ -8,6 +8,10 @@
 	display:inline;
 }
 
+.no-underline {
+	text-decoration: none;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
